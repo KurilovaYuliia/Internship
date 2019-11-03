@@ -1,0 +1,20 @@
+main {
+  min-height: 75vh;
+}
+.inner-container {
+  margin-left: 80px;
+  margin-top: 8px;
+  margin-right: 40px;
+}
+#todoList {
+  margin-top: 40px;
+  padding-left: 15px;
+}
+#todoList div.row {
+  margin-top: 20px;
+}
+
+.done {
+  color: blue;
+  text-decoration: line-through;
+}
